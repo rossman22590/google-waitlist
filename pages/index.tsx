@@ -13,26 +13,17 @@ const waitlistUrl =
   'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 
 const phrases = [
- // 'can help you debug your code and identify common errors',
-// 'can suggest best practices for version control and collaboration using Git',
-// 'can provide feedback on your coding style and structure',
-// 'can explain how to use APIs and webhooks in your projects',
-// 'can recommend frameworks and libraries to use for specific projects',
-// 'can assist you in setting up a development environment on your computer',
-// 'can offer guidance on how to approach complex programming problems',
-// 'can help you optimize your code for performance and scalability',
-// 'can explain how to use testing and debugging tools to improve your code',
-// 'can recommend resources and tools for staying up-to-date with the latest development trends and technologies'.
-  'can help you draft the perfect resignation letter from Google',
-  'can help you create a website mocking Google\'s waitlist "launches"',
-  'can help you avoid Google ads by suggesting the best tinfoil hats to wear',
-  "can suggest non-Google products that won't sell your personal data",
-  "won't become sentient and try to take over the world... we promise...",
-  'can do a fraction of the cool stuff that ChatGPT could do 3 months ago...',
-  'can write a blog post about how "don\'t be evil" got lost along the way',
-  'can help you check your email for other Google waitlists...',
-  'can suggest open source alternatives to expensive Google products',
-  "can help you reduce anxiety by knowing that you'll never get off the waitlist"
+'can help you debug your code and identify common errors',
+'can suggest best practices for version control and collaboration using Git',
+'can provide feedback on your coding style and structure',
+'can explain how to use APIs and webhooks in your projects',
+'can recommend frameworks and libraries to use for specific projects',
+'can assist you in setting up a development environment on your computer',
+'can offer guidance on how to approach complex programming problems',
+'can help you optimize your code for performance and scalability',
+'can explain how to use testing and debugging tools to improve your code',
+'can recommend resources and tools for staying up-to-date with the latest development trends and technologies'.
+  
 ]
 
 function shuffle(array) {
