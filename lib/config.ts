@@ -14,9 +14,9 @@ export const twitter = 'tsi_org'
 export const twitterUrl = `https://twitter.com/${twitter}`
 export const discordUrl = `https://mytsi.org`
 export const githubRepoUrl =
-  'https://github.com/Tech-in-Schools-Inititaitive'
+  '#'
 export const githubSponsorsUrl =
-  'https://github.com/Tech-in-Schools-Inititaitive'
+  '#'
 export const copyright = `Copyright 2023 ${author}`
 export const madeWithLove = 'Made with ❤️ in Brooklyn, NY'
 
