@@ -13,13 +13,16 @@ const waitlistUrl =
   'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 
 const phrases = [
-  // 'can help you finish your art studio tagline: craft, create, and ...',
-  // 'can suggest more high-protein options to add to your vegan diet',
-  // 'can explain why lightning might strike the same place twice',
-  // 'can outline your blog post about summer mocktail recipes',
-  // 'can explain why large language models might make mistakes',
-  // 'can help you get started on writing your first novel',
-  // 'can draft a packing list for your weekend fishing and camping trip',
+ // 'can help you debug your code and identify common errors',
+// 'can suggest best practices for version control and collaboration using Git',
+// 'can provide feedback on your coding style and structure',
+// 'can explain how to use APIs and webhooks in your projects',
+// 'can recommend frameworks and libraries to use for specific projects',
+// 'can assist you in setting up a development environment on your computer',
+// 'can offer guidance on how to approach complex programming problems',
+// 'can help you optimize your code for performance and scalability',
+// 'can explain how to use testing and debugging tools to improve your code',
+// 'can recommend resources and tools for staying up-to-date with the latest development trends and technologies'.
   'can help you draft the perfect resignation letter from Google',
   'can help you create a website mocking Google\'s waitlist "launches"',
   'can help you avoid Google ads by suggesting the best tinfoil hats to wear',
