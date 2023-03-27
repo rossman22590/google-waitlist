@@ -22,7 +22,7 @@ const phrases = [
 'can offer guidance on how to approach complex programming problems',
 'can help you optimize your code for performance and scalability',
 'can explain how to use testing and debugging tools to improve your code',
-'can recommend resources and tools for staying up-to-date with the latest development trends and technologies'.
+'can recommend resources and tools for staying up-to-date with the latest development trends and technologies',
   
 ]
 
