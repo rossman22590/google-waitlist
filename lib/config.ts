@@ -12,11 +12,11 @@ export const domain = 'google-waitlist.vercel.app'
 export const author = 'Tech in Schoiols Initiative'
 export const twitter = 'tsi_org'
 export const twitterUrl = `https://twitter.com/${twitter}`
-export const discordUrl = `https://www.chatgpthackers.dev`
+export const discordUrl = `https://mytsi.org`
 export const githubRepoUrl =
-  'https://github.com/transitive-bullshit/google-waitlist'
+  'https://github.com/Tech-in-Schools-Inititaitive'
 export const githubSponsorsUrl =
-  'https://github.com/sponsors/transitive-bullshit'
+  'https://github.com/Tech-in-Schools-Inititaitive'
 export const copyright = `Copyright 2023 ${author}`
 export const madeWithLove = 'Made with ❤️ in Brooklyn, NY'
 
