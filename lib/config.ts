@@ -4,13 +4,13 @@ export const isServer = typeof window === 'undefined'
 export const isSafari =
   !isServer && /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
 
-export const title = 'Google Waitlist'
+export const title = 'TutorAI Waitlist'
 export const description =
-  "Join millions of other people waiting for Google's latest, AI-powered waitlist!"
+  "Join millions of other people waiting for TSI's latest, AI-powered waitlist!"
 export const domain = 'google-waitlist.vercel.app'
 
-export const author = 'Travis Fischer'
-export const twitter = 'transitive_bs'
+export const author = 'Tech in Schoiols Initiative'
+export const twitter = 'tsi_org'
 export const twitterUrl = `https://twitter.com/${twitter}`
 export const discordUrl = `https://www.chatgpthackers.dev`
 export const githubRepoUrl =
