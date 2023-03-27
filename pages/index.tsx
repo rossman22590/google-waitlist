@@ -57,7 +57,7 @@ export default function HomePage() {
                 </h1>
 
                 <h1 className={styles.title}>
-                  <b>Bard</b>{' '}
+                  <b>TutorAI</b>{' '}
                   <TypeIt
                     options={{
                       loop: true,
