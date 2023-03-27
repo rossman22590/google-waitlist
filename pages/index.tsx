@@ -24,7 +24,7 @@ const phrases = [
 'can explain how to use testing and debugging tools to improve your code',
 'can recommend resources and tools for staying up-to-date with the latest development trends and technologies',
  'Can provide one-on-one coding lessons to help you learn new languages and concepts',
-'Can suggest coding challenges and projects to help you practice what you've learned',
+'Can suggest coding challenges and projects to help you practice what you have learned',
 'Can recommend online resources and tutorials to supplement your coursework',
 'Can offer guidance on how to build a portfolio of coding projects to showcase your skills to potential employers',
 'Can assist you in finding internship or job opportunities in the tech industry',
