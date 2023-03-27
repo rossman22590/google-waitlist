@@ -10,7 +10,7 @@ import { PageHead } from '@/components/PageHead/PageHead'
 import styles from './index.module.css'
 
 const waitlistUrl =
-  'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
+  'https://forms.gle/SrXK9CxbkZtARw8z9'
 
 const phrases = [
 'can help you debug your code and identify common errors',
