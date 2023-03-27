@@ -62,7 +62,7 @@ export default function HomePage() {
             <div className={cs(styles.hero)}>
               <div className={styles.titleWrapper}>
                 <h1 className={cs(styles.title, styles.sizingHack)}>
-                  <b>Bard</b> {longestPhrase}
+                  <b>TutorAI</b> {longestPhrase}
                 </h1>
 
                 <h1 className={styles.title}>
