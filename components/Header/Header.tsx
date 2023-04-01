@@ -18,12 +18,12 @@ export const Header: React.FC<{ className?: string }> = ({ className }) => {
 
         <div className={styles.rhs}>
           <a
-            href='https://mytsi.org'
+            href='https://tsitutor.vercel.app/'
             className={styles.action}
             target='_blank'
             rel='noopener noreferrer'
           >
-            Official TutorAI Waitlist
+            Get TutorAI
           </a>
 
           <a
