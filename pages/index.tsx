@@ -97,11 +97,11 @@ export default function HomePage() {
               <p className={styles.desc}>{config.description}</p>
 
               <HeroButton
-                href={waitlistUrl}
+                href="https://tsitutor.vercel.app/"
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                Join the Waitlist
+                Get TutorAI
               </HeroButton>
             </div>
           </div>
