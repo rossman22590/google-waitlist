@@ -21,7 +21,7 @@ export const Header: React.FC<{ className?: string }> = ({ className }) => {
   href='https://tsitutor.vercel.app/'
   className={styles.action}
 > 
-  Get TutorAI
+  Get Tutor AI
 </a>
           <a
             className={cs(styles.discord, styles.social)}
