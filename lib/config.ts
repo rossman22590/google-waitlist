@@ -6,7 +6,7 @@ export const isSafari =
 
 export const title = 'TutorAI Waitlist'
 export const description =
-  "Join millions of other people waiting for TSI's latest, AI-powered waitlist!"
+  "Join the thousands of students using Tutor AI now!!"
 export const domain = 'google-waitlist.vercel.app'
 
 export const author = 'Tech in Schoiols Initiative'
