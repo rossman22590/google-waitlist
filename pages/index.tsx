@@ -74,11 +74,11 @@ export default function HomePage() {
             <div className={cs(styles.hero)}>
               <div className={styles.titleWrapper}>
                 <h1 className={cs(styles.title, styles.sizingHack)}>
-                  <b>TutorAI</b> {longestPhrase}
+                  <b>Tutor AI</b> {longestPhrase}
                 </h1>
 
                 <h1 className={styles.title}>
-                  <b>TutorAI</b>{' '}
+                  <b>Tutor AI</b>{' '}
                   <TypeIt
                     options={{
                       loop: true,
