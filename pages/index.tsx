@@ -96,7 +96,7 @@ export default function HomePage() {
 
               <p className={styles.desc}>{config.description}</p>
 
-              <HeroButton href='https://tsitutor.vercel.app/pricing'>Get Tutor AI Now 👀</HeroButton>
+              <HeroButton href='/pricing'>Get Tutor AI Now 👀</HeroButton>
             </div>
           </div>
         </div>
