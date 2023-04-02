@@ -10,7 +10,7 @@ import { PageHead } from '@/components/PageHead/PageHead'
 import styles from './index.module.css'
 
 const waitlistUrl =
-  'https://forms.gle/SrXK9CxbkZtARw8z9'
+  'https://tsitutor.vercel.app/'
 
 const phrases = [
 'can help you debug your code and identify common errors',
@@ -96,13 +96,7 @@ export default function HomePage() {
 
               <p className={styles.desc}>{config.description}</p>
 
-              <HeroButton
-                href="https://tsitutor.vercel.app/"
-                target='_blank'
-                rel='noopener noreferrer'
-              >
-                Get TutorAI
-              </HeroButton>
+              <HeroButton href='https://tsitutor.vercel.app/'>Get TutorAI</HeroButton>
             </div>
           </div>
         </div>
