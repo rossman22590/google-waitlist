@@ -4,7 +4,7 @@ export const isServer = typeof window === 'undefined'
 export const isSafari =
   !isServer && /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
 
-export const title = 'TutorAI Waitlist'
+export const title = 'Tutor AI Waitlist'
 export const description =
   "Join the thousands of students using Tutor AI now!!"
 export const domain = 'google-waitlist.vercel.app'
