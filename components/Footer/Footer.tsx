@@ -18,15 +18,7 @@ export const Footer: React.FC<{ className?: string }> = ({ className }) => {
       </div>
 
       <div className={styles.social}>
-        <a
-          className={cs(styles.discord, styles.action)}
-          href={config.discordUrl}
-          title='Discord'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          <Discord />
-        </a>
+        
 
         <a
           className={cs(styles.twitter, styles.action)}
@@ -38,15 +30,7 @@ export const Footer: React.FC<{ className?: string }> = ({ className }) => {
           <Twitter />
         </a>
 
-        <a
-          className={cs(styles.github, styles.action)}
-          href={config.githubRepoUrl}
-          title='View source on GitHub'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          <GitHub />
-        </a>
+        
       </div>
     </footer>
   )
