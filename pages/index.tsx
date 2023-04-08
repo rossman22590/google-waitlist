@@ -10,7 +10,7 @@ import { PageHead } from '@/components/PageHead/PageHead'
 import styles from './index.module.css'
 
 const waitlistUrl =
-  'https://tsitutor.vercel.app/'
+  'https://platform.myapps.ai/pricing'
 
 const phrases = [
 'can help you debug your code and identify common errors',
