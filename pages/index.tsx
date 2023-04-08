@@ -10,7 +10,7 @@ import { PageHead } from '@/components/PageHead/PageHead'
 import styles from './index.module.css'
 
 const waitlistUrl =
-  'https://platform.myapps.ai/pricing'
+  'https://platform.myapps.ai/signin'
 
 const phrases = [
 'can help you debug your code and identify common errors',
@@ -96,7 +96,7 @@ export default function HomePage() {
 
               <p className={styles.desc}>{config.description}</p>
 
-              <HeroButton href='https://platform.myapps.ai/pricing'>Get Tutor AI Now 👀</HeroButton>
+              <HeroButton href='https://platform.myapps.ai/signin'>Get Tutor AI Now 👀</HeroButton>
             </div>
           </div>
         </div>
